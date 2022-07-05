@@ -47,6 +47,5 @@ Setup is done by the USB2RC configuration tool.
 
 ## Example builds
 ### By ScrumPilot616
-#### HeadTracker
-#### Mounted on DJI googles
+
 
