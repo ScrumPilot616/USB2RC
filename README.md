@@ -26,7 +26,7 @@
 
 
 ## Setup
-Setup is done by the HeadTracker configuration tool.
+Setup is done by the USB2RC configuration tool.
 ![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RCDataView.png)
 
 ### Configuration
