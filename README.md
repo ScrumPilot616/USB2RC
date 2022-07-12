@@ -95,13 +95,13 @@ The device ID is only shown if no valid license key is available.
 ### Build by ScrumPilot616
 
 Front
-![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example1.png)
+![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example1.jpg)
 
 Back
-![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example2.png)
+![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example2.jpg)
 
 Oled
-![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example3.png)
+![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RC_SP_Example3.jpg)
 
 
 
