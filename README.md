@@ -11,6 +11,8 @@
 ## Supported USB Dvices
 - T-Flight Hotas X, PC and PS3 mode
 
+Further devices will follow.
+
 ## Hardware
 
 
