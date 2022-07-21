@@ -2,6 +2,7 @@
 
 
 ## Features
+- Two USB input devices
 - 12 channel PPM output
 - 16 channel CRSF output
 - Headtracker serial input
@@ -19,7 +20,7 @@
 
 ### Optional
 - OLED SSD1306 
-- Voltage devider
+- Voltage divider
 - Passive buzzer
 - LAB USB2RC Board
  
