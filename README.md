@@ -5,7 +5,7 @@
 - PPM output
 - CRSF output
 - Headtracker serial input
-- WiFi telemetry output
+- WiFi/Bluetooth telemetry output
 
 ## Hardware
 
@@ -15,7 +15,7 @@
 
 ### Optional
 - OLED SSD1306 
-- Voltage devider for measuring box supply 
+- Voltage devider
 - Passive buzzer
 - LAB USB2RC Board
  
@@ -29,11 +29,11 @@ You can build the circuit by your own or order the USB2RC board at LAB (Link wil
 
 ### Flashing Firmware
 #### CH559 Module
-First, the CH559 module must be flashed [See](https://github.com/ScrumPilot616/CH559sdccUSBHost)
+The CH559 module must be flashed [with](https://github.com/ScrumPilot616/CH559sdccUSBHost)
 
 
 #### ESP32
-First, download the "Flash Download Tools" from the Expressif homepage.
+Download the "Flash Download Tools" from the Expressif homepage.
 Start the tool and set the following properties:
 ![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/ESP32Flashing.png)
 
@@ -60,13 +60,13 @@ The USB2RC configuration tool "USB2RCConfig.exe" is a part of this repository.
 
 ![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RCConfiguration.png)
 
-### License Key
-Even if you have to upload a valid license key, this software is for free.
-You can request a licence key by pushing a request with your device ID to the 
-discussion. To visualize the device ID or to upload the licence key press the <Licence>-Button.
-The device ID is only shown if no valid license key is available.
+### Activation key
+Even if you have to upload a valid activation key, this software is for free.
+You can request a activation key by pushing a request with your device ID to the 
+discussion of this repository. To visualize the device ID or to upload the activation key press the "Activation"-Button.
+The device ID is only shown if no valid activation key is available.
 
-![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RCLicense.png)
+![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RCActivation.png)
 
 
 
