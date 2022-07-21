@@ -2,16 +2,20 @@
 
 
 ## Features
-- PPM output
-- CRSF output
+- 12 channel PPM output
+- 16 channel CRSF output
 - Headtracker serial input
 - WiFi/Bluetooth telemetry output
 
+## Supported USB Dvices
+- T-Flight Hotas X, PC and PS3 mode
+
 ## Hardware
+
 
 ### Required
 - ESP32
-- CH559 USB-Host [See](https://github.com/ScrumPilot616/CH559sdccUSBHost)
+- CH559 USB-Host
 
 ### Optional
 - OLED SSD1306 
@@ -29,7 +33,7 @@ You can build the circuit by your own or order the USB2RC board at LAB (Link wil
 
 ### Flashing Firmware
 #### CH559 Module
-The CH559 module must be flashed [with](https://github.com/ScrumPilot616/CH559sdccUSBHost)
+The CH559 module must be flashed with the following firmware: [CH559sdccUSBHost](https://github.com/ScrumPilot616/CH559sdccUSBHost)
 
 
 #### ESP32
