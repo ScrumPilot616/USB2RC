@@ -70,7 +70,8 @@ The USB2RC configuration tool "USB2RCConfig.exe" is a part of this repository.
 ### Activation key
 Even if you have to upload a valid activation key, this software is for free.
 You can request a activation key by pushing a request with your device ID to the 
-discussion of this repository. To visualize the device ID or to upload the activation key press the "Activation"-Button.
+![discussion](https://github.com/ScrumPilot616/USB2RC/discussions/categories/activation-key-requests) of this repository .
+To visualize the device ID or to upload the activation key press the "Activation"-Button.
 The device ID is only shown if no valid activation key is available.
 
 ![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/USB2RCActivation.png)
