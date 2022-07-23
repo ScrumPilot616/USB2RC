@@ -83,7 +83,7 @@ The device ID is only shown if no valid activation key is available.
 
 | Library     | Version | Licence |
 | ----------- | ------ | ------- |
-| [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)| 4.3.0 | MIT |
+| ![esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)| 4.3.0 | MIT |
 | Arduino core for the ESP32 | 1.0.6 |  LGPL-2.1 license  |
 
 
