@@ -3,7 +3,7 @@
 
 ## Features
 - Two USB input devices
-- 12 channel PPM output
+- 12 channel CPPM output
 - 16 channel CRSF output
 - Headtracker serial input
 - WiFi/Bluetooth telemetry output
