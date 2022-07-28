@@ -1,4 +1,11 @@
-# ESP8266 and ESP32 OLED driver for SSD1306 displays
+# Additional License Information
+The **Arduino core for ESP32** is released under LGPL-2.1. 
+*USB2RC* contains no derivative of any portion of the **Arduino core for ESP32**.
+According to section 5, USB2RC is classified as a "work that uses the Library"
+and therefore falls outside the scope of the LGPL-2.1 license.
+
+
+## ESP8266 and ESP32 OLED driver for SSD1306 displays
 ```
 The MIT License (MIT)
 
@@ -26,7 +33,7 @@ SOFTWARE.
 See more at http://blog.squix.ch
 ```
 
-# Arduino core for ESP32
+## Arduino core for ESP32
 ```
 ### GNU LESSER GENERAL PUBLIC LICENSE
 
