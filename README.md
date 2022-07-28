@@ -42,6 +42,7 @@ The CH559 module must be flashed with the following firmware: [CH559sdccUSBHost]
 #### ESP32
 Download the "Flash Download Tools" from the Expressif homepage.
 Start the tool and set the following properties:
+
 ![N|Solid](https://github.com/ScrumPilot616/USB2RC/blob/main/images/ESP32Flashing.png)
 
 Presss the "Start"-Button
@@ -70,7 +71,7 @@ The USB2RC configuration tool "USB2RCConfig.exe" is a part of this repository.
 ### Activation key
 Even if you have to upload a valid activation key, this software is for free.
 You can request a activation key by pushing a request with your device ID to the 
-![discussion](https://github.com/ScrumPilot616/USB2RC/discussions/categories/activation-key-requests) of this repository .
+[discussion](https://github.com/ScrumPilot616/USB2RC/discussions/categories/activation-key-requests) of this repository .
 To visualize the device ID or to upload the activation key press the "Activation"-Button.
 The device ID is only shown if no valid activation key is available.
 
@@ -83,10 +84,10 @@ The device ID is only shown if no valid activation key is available.
 
 | Library     | Version | Licence |
 | ----------- | ------ | ------- |
-| ![ESP8266 and ESP32 OLED driver for SSD1306 displays](https://github.com/ThingPulse/esp8266-oled-ssd1306)| 4.3.0 | MIT |
-| ![Arduino core for the ESP32](https://github.com/espressif/arduino-esp32) | 1.0.6 |  LGPL-2.1 license  |
+| [ESP8266 and ESP32 OLED driver for SSD1306 displays](https://github.com/ThingPulse/esp8266-oled-ssd1306)| 4.3.0 | MIT |
+| [Arduino core for the ESP32](https://github.com/espressif/arduino-esp32) | 1.0.6 |  LGPL-2.1   |
 
-For detailed license information see ![COPYING.md](./COPYING.md)
+For detailed license information see [COPYING.md](./COPYING.md)
 
 
 
